@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
 
-- 💬 Ask me about **Raect**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **mirzamuhammadareebnadir@gmail.com**
 
