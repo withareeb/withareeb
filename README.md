@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeb Nadir</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
-
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="400" align="right">
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
